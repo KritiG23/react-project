@@ -18,7 +18,7 @@ function App() {
   const { isLoaded} = useLoadScript({
     //googleMapsApiKey: "AIzaSyD3Cjx1GCbOWpt9atq1QMbUfOyxsLPoIIs" // ,
     id: "google-map-script",
-     googleMapsApiKey: "AIzaSyDykLcSVPpD9Kw0VoZUkrlpMOCKOVWs7Bg",
+     googleMapsApiKey: "",  //add your googleapi key
     // ...otherOptions
   })
   if (!isLoaded) {
