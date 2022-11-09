@@ -1,0 +1,60 @@
+
+     [
+      {
+          "id": "c02b7353-0801-4bd0-9ec8-e1e6eeaa3751",
+          "name": "SHAFTER CA GDC",
+          "lat": 35.467234,
+          "lng": -119.209387,
+          "address": "2701 SOUTH DRIVER ROAD, SHAFTER, CA, United States"
+      },
+      {
+          "id": "c00d5f94-0456-48f6-8494-0f9f26febb49",
+          "name": "Demo GDC 0",
+          "lat": 37.400846,
+          "lng": -122.109748,
+          "address": "600 Showers Dr, Mountain View, CA 94040, USA"
+      },
+      {
+          "id": "dc3401b4-5b8a-4123-ac4c-f9d2000715af",
+          "name": "Demo GDC 1",
+          "lat": 32.895645,
+          "lng": -117.196031,
+          "address": "5775 more house drive. San Diego, CA, 92121"
+      },
+      {
+          "id": "fc3c1460-8f52-4625-bd5a-ac534b443bd8",
+          "name": "Demo GDC 2",
+          "lat": 32.967385,
+          "lng": -117.139271,
+          "address": "13710 Butano way, San Diego, CA, 92129"
+      },
+      {
+          "id": "70e7159d-d061-4e23-ab60-184fa2c25a5a",
+          "name": "McCarran NV GDC",
+          "lat": 39.53716,
+          "lng": -119.477303,
+          "address": "2155 USA PKWY, Sparks, NV, 89437"
+      },
+      {
+          "id": "d640737e-a57b-4e1b-b189-717c4865f0f2",
+          "name": "Silver Pine Way YK_GDC 1",
+          "lat": 33.024506,
+          "lng": -117.118821,
+          "address": "10316 Silver Pine Way, San Diego 92127"
+      },
+      {
+          "id": "a87cf9e6-c770-4a3e-974f-9c8e9f9f49b6",
+          "name": "Residence_Inn_Mariott",
+          "lat": 32.9016375916037,
+          "lng": -117.18859832431643,
+          "address": "Residence Inn by Marriott San Diego "
+      },
+      {
+          "id": "025b1cbc-6c0d-4757-aad0-7d01fcc7a072",
+          "name": "Chennai Cafe",
+          "lat": 32.89566791410318,
+          "lng": -117.12390458703302,
+          "address": "Chennai Cafe"
+      }
+  ]
+  
